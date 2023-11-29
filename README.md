@@ -1,4 +1,4 @@
-# Alpha Innotec Home Assistant integration
+# Home Assistant integration for Alpha Home
 
 ![Version](https://img.shields.io/github/v/release/arjenbos/ha_alpha_innotec)
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
